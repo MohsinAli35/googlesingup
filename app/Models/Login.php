@@ -9,3 +9,4 @@ class Login extends Model
 {
     use HasFactory;
 }
+//login
